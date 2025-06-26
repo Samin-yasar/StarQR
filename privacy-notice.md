@@ -4,11 +4,11 @@
 
 This Privacy Notice for StarQR ("we," "us," or "our") outlines how and why we might access, collect, store, use, and/or share ("process") your information when you use our services ("Services"), including when you:
 
-- Visit our website at https://samin-yasar.github.io/StarQR that links to this Privacy Notice.
+- Visit our website at [https://samin-yasar.github.io/StarQR](https://samin-yasar.github.io/StarQR) that links to this Privacy Notice.
 - Use StarQR, a lightweight, client-side QR and barcode scanning tool designed with zero-knowledge architecture, ensuring all scan data remains local to your device with no accounts, cloud storage, or analytics.
 - Engage with us in related ways, such as sales, marketing, or events.
 
-If you have questions or concerns, this Privacy Notice will clarify your privacy rights and choices. As StarQR operates with a zero-knowledge architecture, we do not collect or process personal information in the traditional sense. If you do not agree with our policies, please refrain from using our Services. For inquiries, contact us at "samin.rash525@silomails.com".
+If you have questions or concerns, this Privacy Notice will clarify your privacy rights and choices. As StarQR operates with a zero-knowledge architecture, we do not collect or process personal information in the traditional sense. If you do not agree with our policies, please refrain from using our Services. For inquiries, contact us at ["samin.rash525@silomails.com"](mailto:samin.rash525@silomails.com).
 
 ## SUMMARY OF KEY POINTS
 
@@ -156,7 +156,7 @@ We may revise this Privacy Notice periodically, with updates indicated by a revi
 
 For questions or comments about this notice, contact us at:
 
-- **Email**: samin.rash525@silomails.com
+- **Email**: [samin.rash525@silomails.com](mailto:samin.rash525@silomails.com)
 - **Post**:  
   Samin Yasar
   StarQR Developer 
@@ -164,4 +164,4 @@ For questions or comments about this notice, contact us at:
 
 ## 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
-As StarQR does not collect personal information, traditional data subject requests (e.g., access, correction, deletion) are not applicable. You can review, update, or delete your data (e.g., scan results or history) using StarQR’s interface features (e.g., export, import, or clear history) or by managing your browser’s local storage settings. For assistance, contact us at samin.rash525@silomails.com or visit https://samin-yasar.github.io/#contact.
+As StarQR does not collect personal information, traditional data subject requests (e.g., access, correction, deletion) are not applicable. You can review, update, or delete your data (e.g., scan results or history) using StarQR’s interface features (e.g., export, import, or clear history) or by managing your browser’s local storage settings. For assistance, contact us at [samin.rash525@silomails.com](mailto:samin.rash525@silomails.com) or visit [Contact Form](https://samin-yasar.github.io/#contact).
